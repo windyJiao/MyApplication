@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="stu_name">name</string>
+    <string name="stu_number">Stunumber</string>
+    <string name="stu_log">HAPPY CHILDREN\'DAY</string>
+    <string name="stu_password">enter password</string>
+    <string name="tip">Intup your name</string>
+</resources>
