@@ -1,8 +1,9 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.MyApplication" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="colorPrimary">#FFA500</item>
+        <item name="colorOnPrimary">#000000</item>  <!-- 这将设置在主色上的文本颜色为黑色 -->
+        <item name="android:textColor">#000000</item>
     </style>
 
     <style name="Theme.MyApplication" parent="Base.Theme.MyApplication" />

@@ -1,8 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
-    <string name="stu_name">name</string>
-    <string name="stu_number">Stunumber</string>
-    <string name="stu_log">HAPPY CHILDREN\'DAY</string>
-    <string name="stu_password">enter password</string>
-    <string name="tip">Intup your name</string>
+    <string name="app_name">CourtCounter</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="score_placeholder">0</string>
+    <string name="btn_plus_three">+3 POINTS</string>
+    <string name="btn_plus_two">+2 POINTS</string>
+    <string name="btn_free_throw">FREE THROW</string>
+    <string name="btn_reset">RESET</string>
 </resources>
